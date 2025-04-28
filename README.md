@@ -3,6 +3,8 @@ For this I4 assignment, I experimented with four different information structure
 
 A summary of the process for each example is listed below, and the full Python code is attached in IMT_542_I4_Tara_Hulcome.ipynb
 
+IMT_542_I4_Tara_Hulcome.ipynb
+
 ## Example 1
 
 •	**Task**: Retrieve sample (10 lines) of HTML text from an information architecture website blog. 
