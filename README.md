@@ -1,7 +1,7 @@
 # Tara_Hulcome_IMT542_I4
 For this I4 assignment, I experimented with four different information structures / access technologies. Three of these attempts produced successful results (i.e., I was able to print a sample of text or data), and one attempt was unsuccessful (I've included the results as it was still interesting to test the process). 
 
-A summary of the process for each example is listed below, and the full Python code is attached in IMT_542_I4_Tara_Hulcome.ipynb
+A summary of the process for each example is listed below, and the full Python code (created using Google CoLab with assistance of Gemini AI) is attached in IMT_542_I4_Tara_Hulcome.ipynb
 
 
 ## Example 1
