@@ -57,7 +57,7 @@ A summary of the process for each example, including pros and cons, is listed be
 
 •	**Pros**: N/A
 
-•	**Cons**: Based on my troubleshooting efforts: the error may have been because Tableau Public loads workbook content dynamically, so BeautifulSoup couldn’t retrieve dynamic elements. I attempted to use Selenium instead, with no luck. This task was clearly beyond my coding ability :(
+•	**Cons**: Based on my troubleshooting efforts: the error may have been because Tableau Public loads workbook content dynamically, so BeautifulSoup couldn’t retrieve dynamic elements. I attempted to use Selenium instead, with no luck. This task was clearly beyond my beginner coding abilities :(
 
 
 
