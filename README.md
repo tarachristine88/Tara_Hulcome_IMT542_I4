@@ -4,12 +4,19 @@ For this I4 assignment, I experimented with four different information structure
 ## Example 1
 
 •	**Task**: Retrieve sample (10 lines) of HTML text from an information architecture website blog. 
+
 •	**Source UR**L: https://www.uxmatters.com/mt/archives/2016/11/the-name-of-the-practice-is-information-architecture.php
+
 •	**Information structure**: HTML (PHP script).
+
 •	**Access technology**: HTML parser using BeautifulSoup.
+
 •	**Result**: Successful extraction.
+
 •	**Pros**: It’s easy and fast to use BeautifulSoup (with the assistance of Google Gemini AI) to scrape information from publicly accessible websites.
+
 •	**Cons**: The resulting output is quite messy and dense. It requires further structuring to improve readability. 
+
 
 ## Example 2
 
